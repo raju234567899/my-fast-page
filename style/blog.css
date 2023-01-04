@@ -1,0 +1,24 @@
+.page-litte{
+    height: 150px;
+    background-image: url('../raj/developar.webp');
+    background-size: cover;
+    background-color: green;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+}
+
+
+
+    
+h3{
+
+    color: aqua;
+    text-decoration: underline;
+}
+p{
+   color: rgb(127, 129, 255); 
+}
+.page-litte{
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
